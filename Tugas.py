@@ -1,5 +1,3 @@
-# Buat Matriks random 10x10 dengan elemen 1 - 10
-
 import numpy as np
 
 x = np.random.randint(1,11,100)
