@@ -1,8 +1,6 @@
 import numpy as np
-x = np.arange(12)
-x = x.reshape(4,3)
-print(x)
 
-x = np.arange(9)
-x = x.reshape(3,3)
-print(x)
+x = np.arange(12)
+print(type(x))
+x = x.reshape(4,3)
+
